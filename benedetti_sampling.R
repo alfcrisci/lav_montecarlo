@@ -5,7 +5,7 @@ library(classInt)
 library(randtoolbox)
 library(ggplot2)
 
-setwd("/home/alf/Scrivania/lav_montecarlo")
+
 source("aux_seas_mcarlo.R")
 
 ######################################################################################
